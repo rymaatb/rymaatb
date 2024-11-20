@@ -1,8 +1,7 @@
 # Hey, I'm Ryma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<h3 align="center">A Cyber security student</h3>
+#### A Cyber security student.
 
-<p align="center">
 ## 🔧 Technologies & Tools
 </p>
 <h3 align="left"></h3>
