@@ -13,6 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rymaatb&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Ryma's GitHub Stats" />
 </a>
 <a href="https://github.com/rymaatb.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rymaatb&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rymaatb&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=4" />
 </a>
 
